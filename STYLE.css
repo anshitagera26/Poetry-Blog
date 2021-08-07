@@ -1,0 +1,162 @@
+/*ANSHITA GERA*/
+
+body{
+	background-color:#f3f3f3;
+	background-image:url('hello.jpg'); }
+	
+
+mark{ 
+	background-color: #646464;
+	color: white;}
+
+.navbar-header{font-size:30px; 
+text-shadow:10px;font-weight:bold;}
+
+.navbar{padding:.8rem;}
+.navbar-nav li{padding-right:20px;
+}
+
+.btn-primary{
+	background-color:#C5C7C4;
+	color:black;
+	border:black 2 px;
+	font-size:12px;
+	padding:2px;}
+
+.btn-primary:hover { 
+	background-color:#EEEEED;
+	color:black;
+	
+}
+div.sticky {
+	background-color: #3d3d3d;
+	color: white;
+	text-align:center;
+	font-size:28px;
+	border: black solid;
+	border-width: 4px;
+	padding: 7px;
+	font-family: Arial, Helvetica, Sans serif;
+	line-height:1.4em;
+	float:top;
+	top:0px;
+	position: -webkit-sticky;
+	position: sticky;}
+  
+.nav_bar h2{
+	text-align:center;
+	font-family: Arial, Helvetica, Sans serif;
+	font-size:17px;}
+
+.nav_bar {
+	float:left;
+	position:fixed;
+	top:140px;
+	width:250px;
+	height:145px;
+	background-color:#dcdcdc;
+	border: black solid 2px;}
+	
+
+.nav_bar li :hover {
+	color:red;}
+
+.images1 img{
+	float:left;
+	position:fixed;
+	top:300;
+	height:140px;
+	width:250px;
+	border: black solid 2px;}
+
+.images2 img{
+	float:left;
+	position:fixed;
+	top:454px;
+	height:140px;
+	width:250px;
+	border: black solid 2px;}
+
+.main_area{
+	height:30px;
+	max-height:250px;
+	margin-top: 75px;
+	float:right;
+	width:77%;}
+	
+.latest{padding-top:10px;}
+
+.latest a{
+	color:#333333;
+	text-decoration:none;
+    display:inline;}
+	
+.topic{
+	text-decoration:underline;
+	font-weight:700;}
+
+#my_form{padding-top:10px;}
+
+#my_form .form_group {padding-bottom:15px;}
+
+#my_form label {display:block;}
+
+#my_form input[type="text"], #my_form textarea{
+	padding:8px;
+	width:80%;}
+
+#my_form2{padding-top:10px;}
+
+#my_form2 .form_group2 {padding-bottom:15px;}
+
+#my_form2 label {display:block;}
+
+#my_form2 input[type="text"]{
+	padding:8px;
+	width:80%;}
+	
+.button{
+	background-color:white;
+	color:black;
+	padding:5px;
+	border:none;}
+	
+.button:hover{
+	background-color:#808080;
+	color:white;}
+
+.arch{padding-top:10px;}
+	
+.arch li :hover {
+	color:red;}
+
+#cat{
+	padding-top:10px;
+	padding-bottom:24px;}
+
+#cat li :hover {
+	color:red;}
+
+.footer{
+	width:50%;
+	margin:auto;
+	font-weight:bold;
+	text-align:center;
+	overflow:hidden;}
+	
+.card-img-top{ height:100%;}
+hr {
+	height: 4px;
+	background-color: #3d3d3d;
+	border: none;}
+	
+.other p{
+	margin:5px;
+	padding-bottom:15px;}
+
+.other img{
+	float:right;
+	width:50%;
+	padding-top:50px;
+	padding-right:40px;
+	top:20px;}
